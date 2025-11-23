@@ -8,7 +8,7 @@
 /* Body styles */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #ffa07a;
+    background-image: url("fundo.jpg");;
     color: #333;
     display: flex;
     justify-content: center;
@@ -19,7 +19,7 @@ body {
 /* Container styles */
 .container {
     text-align: center;
-    background-color: white;
+    background-color: pink;
     padding: 40px;
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
@@ -28,7 +28,7 @@ body {
 /* Header styles */
 header h1 {
     font-size: 2.5rem;
-    color: #0073e6;
+    color: 9b111e;
     margin-bottom: 10px;
 }
 
@@ -52,7 +52,7 @@ header p {
     font-size: 1.2rem;
     text-decoration: none;
     color: white;
-    background-color: #0073e6;
+    background-color: #9b111e;
     border-radius: 6px;
     transition: background-color 0.3s, transform 0.2s;
 }
