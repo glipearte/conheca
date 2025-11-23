@@ -58,7 +58,7 @@ header p {
 }
 
 .button:hover {
-    background-color: #005bb5;
+    background-color: #ff2c2c;
     transform: scale(1.05);
 }
 
