@@ -50,14 +50,14 @@ header h1 {
     padding: 14px 28px;
     font-size: 1.2rem;
     text-decoration: none;
-    color: black;
-    background-color: #ffd235;
+    color: white;
+    background-color: #9b111e;
     border-radius: 8px;
     transition: background-color 0.3s, transform 0.2s;
 }
 
 .button:hover {
-    background-color: #ffc300;
+    background-color: #ef4123;
     transform: scale(1.05);
 }
 
