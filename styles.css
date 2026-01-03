@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background-image: url("fundo.jpg");
+    background-image: url("fundo.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -76,3 +76,4 @@ header h1 {
         padding: 12px 22px;
     }
 }
+
